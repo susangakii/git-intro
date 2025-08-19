@@ -1,1 +1,1 @@
-console.log("news register")
+console.log("hello world")
