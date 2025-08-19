@@ -1,1 +1,1 @@
-console.log("registering")
+console.log("hello world")
