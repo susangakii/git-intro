@@ -1,1 +1,1 @@
-console.log("This is the register")
+console.log("register")
